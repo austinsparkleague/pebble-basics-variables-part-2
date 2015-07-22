@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "scottybrackett@gmail.com",
+    "longName": "the basics - variables",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "the basics - variables",
+    "uuid": "2b84998b-1a45-47d2-bb75-8809f2de4637",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
